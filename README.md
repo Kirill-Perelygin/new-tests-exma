@@ -128,5 +128,9 @@ appium
 ## Доказательства успешных запусков тестов
 
 ### Веб-тесты
+![1](https://github.com/Kirill-Perelygin/new-tests-exma/blob/master/src/test/resources/images/web/ChromePhoto.png)
+![2](https://github.com/Kirill-Perelygin/new-tests-exma/blob/master/src/test/resources/images/web/WebTestsPassed.png)
 
 ### Мобильные тесты
+![1](https://github.com/Kirill-Perelygin/new-tests-exma/blob/master/src/test/resources/images/mobile/AndroidStudioPhoto.png)
+![2](https://github.com/Kirill-Perelygin/new-tests-exma/blob/master/src/test/resources/images/mobile/MobileTestsPassed.png)
