@@ -92,7 +92,7 @@ public class WikipediaWebTests {
     @Test(priority = 5, description = "Проверка навигации по меню")
     public void testNavigationMenu() {
         mainPage.open();
-        mainPage.searchFor("Test automation");
+        mainPage.searchFor("Test");
         
         WikipediaSearchResultsPage searchResultsPage = new WikipediaSearchResultsPage(driver);
         searchResultsPage.clickFirstSearchResult();
